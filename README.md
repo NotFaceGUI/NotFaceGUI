@@ -2,5 +2,5 @@
 
 ### 你好👋
 
-- Blog：欢迎访问我的博客 👉<a href="#">here</a>
+- Blog：欢迎访问我的博客 👉<a href="https://notfacegui.github.io">here</a>
 
